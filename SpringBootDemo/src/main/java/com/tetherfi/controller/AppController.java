@@ -18,6 +18,6 @@ public class AppController {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		return "Spring Demo is running on " + ipAddress;
+		return "SpringBoot Demo is running on " + ipAddress;
 	}
 }
